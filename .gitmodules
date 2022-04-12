@@ -1,0 +1,6 @@
+[submodule "desafio_estagio_klok_tech_api_1"]
+	path = desafio_estagio_klok_tech_api_1
+	url = https://github.com/FilipeFariasC/desafio_estagio_klok_tech_api_1.git
+[submodule "desafio_estagio_klok_tech_api_2"]
+	path = desafio_estagio_klok_tech_api_2
+	url = https://github.com/FilipeFariasC/desafio_estagio_klok_tech_api_2.git

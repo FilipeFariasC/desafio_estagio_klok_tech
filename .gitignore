@@ -1,0 +1,15 @@
+desafio_estagio_klok_tech_api_1/target/
+desafio_estagio_klok_tech_api_2/target/
+db/
+.metadata
+.sonarlint
+
+desafio_estagio_klok_tech_api_1/.classpath
+desafio_estagio_klok_tech_api_1/.project
+desafio_estagio_klok_tech_api_1/.settings
+desafio_estagio_klok_tech_api_1/.mvn/wrapper/maven-wrapper.jar
+
+desafio_estagio_klok_tech_api_2/.classpath
+desafio_estagio_klok_tech_api_2/.project
+desafio_estagio_klok_tech_api_2/.settings
+desafio_estagio_klok_tech_api_2/.mvn/wrapper/maven-wrapper.jar

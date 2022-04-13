@@ -18,6 +18,7 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
       </td>
     </tr>
     <tr>
+      <td><b>SO</b></td>
       <td><b>IDE</b></td>
       <td><b>Versão</b></td>
       <td><b>Codificação</b></td>
@@ -27,6 +28,7 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
   </thead>
   <tbody>
     <tr>
+      <td>Ubuntu 20.04.4 LTS Focal Fossa</td>
       <td>Spring Tools Suite</td>
       <td>4.14.0.RELEASE</td>
       <td>UTF-8</td>
@@ -40,11 +42,12 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
 Para a utilização desse código é necessário ter instalado:
 
 > Oracle Java 17.0.2
-> Postgres 14.2
+> Postgres 14.2-1
 > RabbitMQ 3.9.14
 
 Para a inicialização do postgres
 
 Caso você possua o Docker Engine + Docker Compose:
 
-> Docker 
+> Docker Engine Community 20.10.14 (API version 1.41)
+> Docker Compose 1.29.2

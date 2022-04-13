@@ -11,3 +11,43 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
 
 
 
+<table>
+  <thead style="font-weight: bold">
+    <tr >
+      <td colspan="5" style="text-align:center">
+        Especificação
+      </td>
+    </tr>
+    <tr>
+      <td>IDE</td>
+      <td>Versão</td>
+      <td>Codificação</td>
+      <td>Java</td>
+      <td>Vendor</td>
+    </tr>
+  </thead>
+      
+  <tbody>
+    <tr>
+      <td>Spring Tools Suite</td>
+      <td>4.14.0.RELEASE</td>
+      <td>UTF-8</td>
+      <td>17.0.2</td>
+      <td>Oracle</td>
+    </tr>
+  </tbody>
+</table>
+<!--
+
+|                                 Especificação                         |
+|-----------------------------------------------------------------------|
+|        IDE         |     Versão     | Codificação |   Java   | Vendor |
+
+
+
+|        IDE         |      Versão    | Codificação |   Java   | Vendor |
+|--------------------|----------------|-------------|----------|--------|
+| Spring Tools Suite | 4.14.0.RELEASE |    UTF-8    |  17.0.2  | Oracle |
+-->
+
+Tecnologias utilizadas

@@ -38,7 +38,26 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
   </tbody>
 </table>
 
-## Instalação com Java
+## Obtendo o código-fonte:
+
+Esse projeto utiliza submódulos logo para a obtenção do projeto é necessário fazer:
+
+```bash
+git clone --recurse-submodules https://github.com/FilipeFariasC/desafio_estagio_klok_tech.git
+```
+
+## Empacotando o projeto
+
+Dentro de cada pasta do projeto execute:
+
+```bash
+# No diretório desafio_estagio_klok_api_1
+./mvnw clean package spring-boot:repackage
+# No diretório desafio_estagio_klok_api_2
+./mvnw clean package spring-boot:repackage
+```
+
+### Instalação com Java
 
 Para a utilização desse código apenas com o java é necessário ter instalado:
 
@@ -84,16 +103,7 @@ Altere o valor da propriedade **spring.datasource.url** para **jdbc:postgresql:/
 Altere o valor da propriedade **spring.datasource.url** para **jdbc:postgresql://db-estagio:5432/klok_dev_est_api_2** no arquivo **desafio_estagio_klok_api_2/src/main/resources/application.properties**.
 > spring.datasource.url=jdbc:postgresql://localhost:5432/klok_dev_est_api_2
 
-#### Empacote o projeto:
-
-Dentro de cada pasta do projeto execute:
-
-```bash
-# No diretório desafio_estagio_klok_api_1
-./mvnw clean package spring-boot:repackage
-# No diretório desafio_estagio_klok_api_2
-./mvnw clean package spring-boot:repackage
-```
+#### [Empacote o projeto](#empacotando-o-projeto):
 
 #### Execução em Jar
 
@@ -125,7 +135,7 @@ Altere o valor da propriedade **spring.datasource.url** para **jdbc:postgresql:/
 Altere o valor da propriedade **spring.datasource.url** para **jdbc:postgresql://db-estagio:5432/klok_dev_est_api_2** no arquivo **desafio_estagio_klok_api_2/src/main/resources/application.properties**.
 > spring.datasource.url=jdbc:postgresql://db-estagio:5432/klok_dev_est_api_2
 
-#### [Empacote o projeto](#empacote-o-projeto)
+#### [Empacote o projeto](#empacotando-o-projeto)
 #### Execução em Docker
 
 **Na raiz desse repositório**.

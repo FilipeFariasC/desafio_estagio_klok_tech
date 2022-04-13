@@ -14,7 +14,7 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
   <thead style="font-weight: bold">
     <tr >
       <td colspan="6" align="center">
-        <b>Especificação</b>
+        <b>Ambiente de Desenvolvimento</b>
       </td>
     </tr>
     <tr>

@@ -10,7 +10,6 @@ Workspace no Postman [API 1](https://www.postman.com/filipefariasc/workspace/des
 Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/desafio-klok-tech-estagio-api-2).
 
 
-
 <table>
   <thead style="font-weight: bold">
     <tr >
@@ -26,7 +25,6 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
       <td><b>Vendor</b></td>
     </tr>
   </thead>
-      
   <tbody>
     <tr>
       <td>Spring Tools Suite</td>
@@ -37,17 +35,16 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
     </tr>
   </tbody>
 </table>
-<!--
-
-|                                 Especificação                         |
-|-----------------------------------------------------------------------|
-|        IDE         |     Versão     | Codificação |   Java   | Vendor |
 
 
+Para a utilização desse código é necessário ter instalado:
 
-|        IDE         |      Versão    | Codificação |   Java   | Vendor |
-|--------------------|----------------|-------------|----------|--------|
-| Spring Tools Suite | 4.14.0.RELEASE |    UTF-8    |  17.0.2  | Oracle |
--->
+> Oracle Java 17.0.2
+> Postgres 14.2
+> RabbitMQ 3.9.14
 
-Tecnologias utilizadas
+Para a inicialização do postgres
+
+Caso você possua o Docker Engine + Docker Compose:
+
+> Docker 

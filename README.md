@@ -14,16 +14,16 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
 <table>
   <thead style="font-weight: bold">
     <tr >
-      <td colspan="5" style="text-align:center">
+      <td colspan="5" align="center">
         <b>Especificação</b>
       </td>
     </tr>
     <tr>
-      <td>IDE</td>
-      <td>Versão</td>
-      <td>Codificação</td>
-      <td>Java</td>
-      <td>Vendor</td>
+      <td><b>IDE</b></td>
+      <td><b>Versão</b></td>
+      <td><b>Codificação</b></td>
+      <td><b>Java</b></td>
+      <td><b>Vendor</b></td>
     </tr>
   </thead>
       

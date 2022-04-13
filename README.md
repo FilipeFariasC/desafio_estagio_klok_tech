@@ -15,7 +15,7 @@ Workspace no Postman [API 2](https://www.postman.com/filipefariasc/workspace/des
   <thead style="font-weight: bold">
     <tr >
       <td colspan="5" style="text-align:center">
-        Especificação
+        <b>Especificação</b>
       </td>
     </tr>
     <tr>
